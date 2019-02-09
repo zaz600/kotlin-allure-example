@@ -1,0 +1,5 @@
+.allure/
+.gradle/
+build/
+out/
+.idea/
